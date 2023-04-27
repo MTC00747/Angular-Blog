@@ -1,6 +1,4 @@
-.menu-bar_container {
- 
-}
+
 .menu-bar_container > ul {
     display: flex;
     flex-direction: row;
